@@ -1,2 +1,2 @@
 # World-Of-Utensils.com
-A Web Application Created by me in MCA 2nd sem.
+An online shopping Web Application(Integrated for utensils shopping in its V 1.0).
