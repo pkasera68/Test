@@ -1,0 +1,14 @@
+age	income	student	credit_R	clas
+youth 	high	no	fai	NO
+youth 	high	no	excellent			NO
+middle	high	no	fai	NO
+senior	medium	no	fair		NO
+senior	low	yes	fai	YES
+senior	low	yes	excellen	YES
+middle	low	yes	excellen	YES
+youth	medium	no	fai	NO
+youth	low	yes	fai	YES
+senior	medium	yes	fai	YES
+youth	medium	yes	excellen	YES
+middle	medium	no	excellen	NO
+middle	high	yes	fai	YES
