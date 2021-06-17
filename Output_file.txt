@@ -9,6 +9,6 @@ middle	low	yes	excellen	YES
 youth	medium	no	fai	NO
 youth	low	yes	fai	YES
 senior	medium	yes	fai	YES
-youth	medium	yes	excellen	YES
-middle	medium	no	excellen	NO
+youth	medium	yes	excellen	NO
+middle	medium	no	excellen	YES
 middle	high	yes	fai	YES
